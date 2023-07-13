@@ -1,5 +1,5 @@
 <template>
-    <div>你好！</div>
+    <div>我讨厌写代码</div>
     <hello></hello>
 </template>
 
